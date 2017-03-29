@@ -48,7 +48,7 @@ export default {
     width: 36rem/@r;
     height: 36rem/@r;
     border-radius: 50%;
-    border: 2px solid @red-light;
+    border: 1px solid @red-light;
     background-color: #fff;
     display: flex;
     justify-content: center;
