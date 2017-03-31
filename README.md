@@ -17,6 +17,9 @@
 </template>
 <script>
 export default {
+  components: {
+    'navbar': require('你的组件路径')
+  },
   data() {
     value: 1,       // 通过value控制激活的选项
     data: [{
